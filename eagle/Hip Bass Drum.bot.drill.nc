@@ -4,7 +4,7 @@
 (This file generated from the board:)
 (.../hip_bass_drum/eagle/Hip Bass Drum.brd)
 (Current profile is .../pcbgcode.repo/profiles/mach.pp  )
-(This file generated 10/28/14 7:54 PM)
+(This file generated 10/29/14 8:00 PM)
 (Settings from pcb-machine.h)
 (spindle on time = 0.0000)
 (spindle speed = 20000.0000)
@@ -41,14 +41,13 @@ M06
 G00 Z0.1000  
 M03
 G04 P0.000000
-G82 X-0.2000 Y0.2000  Z-0.0631 F20    R0.1000  P0.100000
-G82 X-1.3500 Y0.9500  
+G82 X-0.2000 Y2.6000  Z-0.0631 F20    R0.1000  P0.100000
 G82 X-1.3500 Y1.3500  
-G82 X-1.9500 Y1.4000  
+G82 X-1.3500 Y0.9500  
 G82 X-1.9500 Y1.1500  
+G82 X-1.9500 Y1.4000  
 G82 X-2.4500 Y0.2000  
 G82 X-2.4500 Y2.6000  
-G82 X-0.2000 Y2.6000  
 M05
 G00 Z3.0000  
 G00 X0.0000  Y0.0000  
