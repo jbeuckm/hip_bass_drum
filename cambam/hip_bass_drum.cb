@@ -110,46 +110,28 @@
             <p>46.9479729362094,62.2415332320469,0</p>
           </pts>
         </pline>
-        <points id="35">
-          <ModificationCount>1</ModificationCount>
+        <text id="80" p1="32.9588895635675,33.8766007338186,0" p2="80.0198895635674,3.69960073381856,0" Height="7.29" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>55</ModificationCount>
+          <mat m="Identity" />limiter</text>
+        <text id="81" p1="7.63249390865356,33.8392614326037,0" p2="56.2954939086536,11.5102614326037,0" Height="7.29" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>39</ModificationCount>
+          <mat m="Identity" />tune</text>
+        <pline id="82">
+          <ModificationCount>29</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>7.5,3</p>
+            <p>7.4064578463382,33.8122614326037,0</p>
+            <p>47.3787194786252,33.8122614326037,0</p>
           </pts>
-        </points>
-        <points id="37">
-          <ModificationCount>1</ModificationCount>
+        </pline>
+        <points id="83">
+          <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>7.50000000000001,125.5</p>
-          </pts>
-        </points>
-        <points id="70">
-          <ModificationCount>1</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>48.1399999999956,3</p>
-          </pts>
-        </points>
-        <points id="71">
-          <ModificationCount>1</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>48.1399999999956,125.5</p>
-          </pts>
-        </points>
-        <points id="72">
-          <ModificationCount>1</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>48.1399999999956,3</p>
-          </pts>
-        </points>
-        <points id="73">
-          <ModificationCount>1</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>48.1399999999956,125.5</p>
+            <p>7.5,3</p>
           </pts>
         </points>
       </objects>
@@ -177,7 +159,7 @@
           <PlungeFeedrate state="Value">1000</PlungeFeedrate>
           <CutFeedrate state="Value">2000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default">0,0,0</StartPoint>
+          <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Drill1</Name>
@@ -213,7 +195,7 @@
           <PlungeFeedrate state="Value">1000</PlungeFeedrate>
           <CutFeedrate state="Value">2000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default">0,0,0</StartPoint>
+          <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>lettering</Name>
@@ -229,12 +211,15 @@
             <prim>12</prim>
             <prim>32</prim>
             <prim>34</prim>
-            <prim>72</prim>
-            <prim>73</prim>
             <prim>81</prim>
+            <prim>80</prim>
+            <prim>29</prim>
+            <prim>31</prim>
           </primitive>
           <TargetDepth state="Value">-0.005</TargetDepth>
           <DepthIncrement state="Default">0.4</DepthIncrement>
+          <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
+          <CutOrdering state="Default">DepthFirst</CutOrdering>
         </engrave>
         <drill>
           <WorkPlane state="Default">XY</WorkPlane>
@@ -287,7 +272,7 @@
           <PlungeFeedrate state="Value">1000</PlungeFeedrate>
           <CutFeedrate state="Value">2000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default">0,0,0</StartPoint>
+          <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>1/8in jacks</Name>
@@ -298,11 +283,7 @@
           <SpindleSpeed state="Default">1000</SpindleSpeed>
           <SpindleRange state="Default">0</SpindleRange>
           <VelocityMode state="Default">Undefined</VelocityMode>
-          <primitive>
-            <prim>70</prim>
-            <prim>71</prim>
-            <prim>82</prim>
-          </primitive>
+          <primitive />
           <TargetDepth state="Value">-3.2</TargetDepth>
           <DepthIncrement state="Value">0.1</DepthIncrement>
           <HoleDiameter state="Value">6.5</HoleDiameter>
@@ -325,7 +306,7 @@
           <PlungeFeedrate state="Value">1000</PlungeFeedrate>
           <CutFeedrate state="Value">2000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default">0,0,0</StartPoint>
+          <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>mounting</Name>
@@ -336,7 +317,9 @@
           <SpindleSpeed state="Default">1000</SpindleSpeed>
           <SpindleRange state="Default">0</SpindleRange>
           <VelocityMode state="Default">Undefined</VelocityMode>
-          <primitive />
+          <primitive>
+            <prim>83</prim>
+          </primitive>
           <TargetDepth state="Value">-3.2</TargetDepth>
           <DepthIncrement state="Value">0.1</DepthIncrement>
           <HoleDiameter state="Value">3.2</HoleDiameter>
@@ -359,7 +342,7 @@
           <PlungeFeedrate state="Value">1000</PlungeFeedrate>
           <CutFeedrate state="Value">2000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default">0,0,0</StartPoint>
+          <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Profile1</Name>
@@ -370,7 +353,9 @@
           <SpindleSpeed state="Default">1000</SpindleSpeed>
           <SpindleRange state="Default">0</SpindleRange>
           <VelocityMode state="Default">Undefined</VelocityMode>
-          <primitive />
+          <primitive>
+            <prim>4</prim>
+          </primitive>
           <TargetDepth state="Value">-3.2</TargetDepth>
           <DepthIncrement state="Value">0.1</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
@@ -395,6 +380,44 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
+          <Tabs>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>4</ParentEntityID>
+              <ParametricPoint>0.12500000000000003</ParametricPoint>
+              <Normal>
+                <X>-1</X>
+                <Y>1.8369095307335642E-16</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>4</ParentEntityID>
+              <ParametricPoint>0.37500000000000006</ParametricPoint>
+              <Normal>
+                <X>-4.419499565915768E-17</X>
+                <Y>-1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>4</ParentEntityID>
+              <ParametricPoint>0.625</ParametricPoint>
+              <Normal>
+                <X>1</X>
+                <Y>-0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>4</ParentEntityID>
+              <ParametricPoint>0.875</ParametricPoint>
+              <Normal>
+                <X>0</X>
+                <Y>1</Y>
+              </Normal>
+            </HoldingTab>
+          </Tabs>
           <SideProfile state="Default" />
         </profile>
       </machineops>
