@@ -18,6 +18,10 @@
             <p>0,125.5</p>
           </pts>
         </points>
+        <circle id="6" c="-2.36042874699263E-14,2.45900955847534E-15,0" d="15.499999999999952">
+          <ModificationCount>8</ModificationCount>
+          <mat m="Identity" />
+        </circle>
         <line id="18">
           <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
