@@ -5,21 +5,21 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <points id="2">
-          <ModificationCount>12</ModificationCount>
+          <ModificationCount>14</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,128.5</p>
           </pts>
         </points>
         <points id="5">
-          <ModificationCount>12</ModificationCount>
+          <ModificationCount>14</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,125.5</p>
           </pts>
         </points>
         <line id="18">
-          <ModificationCount>9</ModificationCount>
+          <ModificationCount>11</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-2.36042874699263E-14,2.45900955847534E-15</p>
@@ -27,27 +27,27 @@
           </pts>
         </line>
         <text id="11" p1="35.1604683898277,90.5001916732054,0" p2="82.2214683898276,60.3231916732054,0" Height="7.29" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>105</ModificationCount>
+          <ModificationCount>107</ModificationCount>
           <mat m="Identity" />tone</text>
         <text id="12" p1="7.8247278891931,90.4628523719906,0" p2="56.4877278891931,68.1338523719905,0" Height="7.29" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>224</ModificationCount>
+          <ModificationCount>226</ModificationCount>
           <mat m="Identity" />click</text>
         <points id="45">
-          <ModificationCount>4</ModificationCount>
+          <ModificationCount>6</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>13.9000000000001,103.8</p>
           </pts>
         </points>
         <points id="46">
-          <ModificationCount>4</ModificationCount>
+          <ModificationCount>6</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>41.9700000000001,103.86</p>
           </pts>
         </points>
         <pline id="48">
-          <ModificationCount>27</ModificationCount>
+          <ModificationCount>29</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>7.36729906975495,90.4358523719905,0</p>
@@ -55,7 +55,7 @@
           </pts>
         </pline>
         <pline id="4" Closed="true">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,128.5,0</p>
@@ -65,41 +65,41 @@
           </pts>
         </pline>
         <points id="10">
-          <ModificationCount>27</ModificationCount>
+          <ModificationCount>29</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>13.9600000000001,75.73</p>
           </pts>
         </points>
         <points id="13">
-          <ModificationCount>27</ModificationCount>
+          <ModificationCount>29</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>14.0200000000001,47.66</p>
           </pts>
         </points>
         <points id="17">
-          <ModificationCount>72</ModificationCount>
+          <ModificationCount>74</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>42.0300000000001,75.79</p>
           </pts>
         </points>
         <points id="24">
-          <ModificationCount>41</ModificationCount>
+          <ModificationCount>43</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>42.0900000000001,27.5700000000001</p>
           </pts>
         </points>
         <text id="29" p1="30.4614151998371,62.3058725332617,0" p2="77.522415199837,32.1288725332617,0" Height="7.29" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>38</ModificationCount>
+          <ModificationCount>40</ModificationCount>
           <mat m="Identity" />p-width</text>
         <text id="31" p1="8.80369730377447,62.2685332320469,0" p2="57.4666973037745,39.9395332320469,0" Height="7.29" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>31</ModificationCount>
+          <ModificationCount>33</ModificationCount>
           <mat m="Identity" />res.</text>
         <pline id="33">
-          <ModificationCount>21</ModificationCount>
+          <ModificationCount>23</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>6.9757113039224,62.2415332320469,0</p>
@@ -107,13 +107,13 @@
           </pts>
         </pline>
         <text id="80" p1="32.9588895635675,13.7266007338187,0" p2="80.0198895635674,-16.4503992661813,0" Height="7.2899999999999991" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>78</ModificationCount>
+          <ModificationCount>80</ModificationCount>
           <mat m="Identity" />limiter</text>
         <text id="81" p1="7.63249390865356,33.8392614326037,0" p2="56.2954939086536,11.5102614326037,0" Height="7.29" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>43</ModificationCount>
+          <ModificationCount>45</ModificationCount>
           <mat m="Identity" />tune</text>
         <pline id="82">
-          <ModificationCount>33</ModificationCount>
+          <ModificationCount>35</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>7.4064578463382,33.8122614326037,0</p>
@@ -121,7 +121,7 @@
           </pts>
         </pline>
         <points id="83">
-          <ModificationCount>4</ModificationCount>
+          <ModificationCount>6</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>7.50000000000001,125.5</p>
@@ -131,38 +131,47 @@
           </pts>
         </points>
         <text id="85" p1="-0.820797319103015,116.134252143157,0" p2="-23.1392002824609,-6.95794134367705,0" Height="9" Font="1CamBam_Stick_9" align="bottom,left" style="italic">
-          <ModificationCount>40</ModificationCount>
+          <ModificationCount>42</ModificationCount>
           <mat m="0.95 0 0 0 0 1 0 0 0 0 1 0 1.61812589387839 -0.809062946939193 0 1" />Hip Bass Drum</text>
         <points id="70">
-          <ModificationCount>61</ModificationCount>
+          <ModificationCount>63</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>18.4573701087048,25.271591695141</p>
           </pts>
         </points>
         <points id="71">
-          <ModificationCount>86</ModificationCount>
+          <ModificationCount>127</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>9.49737641465685,16.1484389564511</p>
+            <p>9.49737641465685,15.7784389564514</p>
           </pts>
         </points>
-        <pline id="73">
-          <ModificationCount>61</ModificationCount>
+        <pline id="9">
+          <ModificationCount>10</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>6.25737010870491,25.371591695141,0</p>
-            <p>11.7573701087049,25.371591695141,0</p>
-            <p>9.55737010870491,27.571591695141,0</p>
+            <p>6.11801071011973,24.3960759050448,0</p>
+            <p>8.86801071011973,24.3960759050448,0</p>
+            <p>8.86801071011973,26.7460759050443,0</p>
+            <p>11.6180107101197,26.7460759050443,0</p>
           </pts>
         </pline>
-        <pline id="74">
-          <ModificationCount>86</ModificationCount>
+        <line id="16">
+          <ModificationCount>60</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>15.3973764146568,16.1484389564511,0</p>
-            <p>20.8973764146568,16.1484389564511,0</p>
-            <p>18.6973764146568,18.3484389564511,0</p>
+            <p>21.9425719040456,15.7742890090775</p>
+            <p>19.7425719040456,13.5742890090775</p>
+          </pts>
+        </line>
+        <pline id="19">
+          <ModificationCount>40</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>16.4425719040456,15.7784389564514,0</p>
+            <p>21.9425719040456,15.7784389564514,0</p>
+            <p>19.7425719040456,17.9784389564514,0</p>
           </pts>
         </pline>
       </objects>
@@ -213,6 +222,9 @@
             <prim>31</prim>
             <prim>73</prim>
             <prim>74</prim>
+            <prim>9</prim>
+            <prim>16</prim>
+            <prim>19</prim>
           </primitive>
           <TargetDepth state="Value">-0.005</TargetDepth>
           <DepthIncrement state="Default">0.4</DepthIncrement>
@@ -270,7 +282,7 @@
           <PlungeFeedrate state="Value">1000</PlungeFeedrate>
           <CutFeedrate state="Value">2000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>1/8in jacks</Name>
@@ -307,7 +319,7 @@
           <PlungeFeedrate state="Value">1000</PlungeFeedrate>
           <CutFeedrate state="Value">2000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>mounting</Name>
@@ -343,7 +355,7 @@
           <PlungeFeedrate state="Value">1000</PlungeFeedrate>
           <CutFeedrate state="Value">2000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>Profile1</Name>
